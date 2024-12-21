@@ -1,0 +1,11 @@
+.icon-size-40 {
+    font-size: 40px;
+}
+
+.telegram {
+    color: #26a5e5;
+}
+
+.telegram:hover {
+    color: red;
+}
